@@ -1,6 +1,6 @@
-# vuejs-cordova-sample
+# vuejs-cordova-qrcodereaders-tests
 
-[![Build Status](https://travis-ci.org/c4software/vuejs-cordova-sample.svg?branch=master)](https://travis-ci.org/c4software/vuejs-cordova-sample)
+[![Build Status](https://travis-ci.org/c4software/vuejs-cordova-qrcodereaders-tests.svg?branch=master)](https://travis-ci.org/c4software/vuejs-cordova-qrcodereaders-tests)
 
 > Sample VueJS app thats use Cordova capabilities
 
