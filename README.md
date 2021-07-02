@@ -1,49 +1,34 @@
 # vuejs-cordova-qrcodereaders-tests
 
-[![Build Status](https://travis-ci.org/c4software/vuejs-cordova-qrcodereaders-tests.svg?branch=master)](https://travis-ci.org/c4software/vuejs-cordova-qrcodereaders-tests)
-
-> Sample VueJS app thats use Cordova capabilities
-
-![Demo screenshot](demo.png)
+> Un simple test de deux plugins différents pour la lecture de QR Codes sur iOS
 
 ## Build Setup
 
 ```bash
-# install dependencies
+# installer les dépendances
 npm install
 
-# serve with hot reload at localhost:8080
+# lancer sur le serveur local localhost:8080
 npm run serve
 
-# build for production to run in Cordova
+# build pour la production
 npm run build
 
 ```
 
-## First Cordova build
+## Premier build Cordova
 
 Run the command :
 
 ```sh
 npm run build
 cd cordova_app
-cordova platform add android
+cordova platform add ios
 cordova run # or build
 ```
 
-## Next Cordova build
+## Builds suivants
 
 ```sh
 npm run cordova_run # or cordova_build
 ```
-
-## Plugins
-
-- cordova-plugin-dialogs
-- cordova-plugin-vibration
-- cordova-plugin-geolocation
-- cordova-plugin-flashlight
-- cordova-plugin-camera
-- phonegap-nfc
-- cordova-plugin-statusbar
-- cordova-plugin-headercolor
